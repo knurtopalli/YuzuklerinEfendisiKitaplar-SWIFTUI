@@ -39,12 +39,3 @@ BookListView: shows the list of books.
 BookRowView: displays cover thumbnail, title, and rating.
 BookDetailView: detailed book information and action buttons (e.g., mark as read).
 Built around SwiftUI's declarative state and data-binding.
-
-
-
-🌟 Future Improvements
-Add CoreData support or cloud sync.
-Include search and filter features.
-Multilanguage support (e.g., English, Turkish).
-Network integration for online book catalog or Goodreads API.
-Custom animations or transitions.
